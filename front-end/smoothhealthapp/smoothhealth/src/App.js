@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Smooth Health AI.
+<<<<<<< HEAD
+          Smooth Health.
+=======
+          Smooth Health.
+>>>>>>> 712aed1c86e38d324330ee1fe1dda6364b2ac9ba
         </p>
         <a
           className="App-link"
